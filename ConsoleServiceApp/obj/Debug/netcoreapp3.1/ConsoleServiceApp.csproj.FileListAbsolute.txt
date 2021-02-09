@@ -1,0 +1,16 @@
+D:\ConsoleServiceApp\bin\Debug\netcoreapp3.1\NLog.config
+D:\ConsoleServiceApp\bin\Debug\netcoreapp3.1\ConsoleServiceApp.exe
+D:\ConsoleServiceApp\bin\Debug\netcoreapp3.1\ConsoleServiceApp.deps.json
+D:\ConsoleServiceApp\bin\Debug\netcoreapp3.1\ConsoleServiceApp.runtimeconfig.json
+D:\ConsoleServiceApp\bin\Debug\netcoreapp3.1\ConsoleServiceApp.runtimeconfig.dev.json
+D:\ConsoleServiceApp\bin\Debug\netcoreapp3.1\ConsoleServiceApp.dll
+D:\ConsoleServiceApp\bin\Debug\netcoreapp3.1\ConsoleServiceApp.pdb
+D:\ConsoleServiceApp\bin\Debug\netcoreapp3.1\NLog.dll
+D:\ConsoleServiceApp\obj\Debug\netcoreapp3.1\ConsoleServiceApp.csprojAssemblyReference.cache
+D:\ConsoleServiceApp\obj\Debug\netcoreapp3.1\ConsoleServiceApp.AssemblyInfoInputs.cache
+D:\ConsoleServiceApp\obj\Debug\netcoreapp3.1\ConsoleServiceApp.AssemblyInfo.cs
+D:\ConsoleServiceApp\obj\Debug\netcoreapp3.1\ConsoleServiceApp.csproj.CoreCompileInputs.cache
+D:\ConsoleServiceApp\obj\Debug\netcoreapp3.1\ConsoleServiceApp.csproj.CopyComplete
+D:\ConsoleServiceApp\obj\Debug\netcoreapp3.1\ConsoleServiceApp.dll
+D:\ConsoleServiceApp\obj\Debug\netcoreapp3.1\ConsoleServiceApp.pdb
+D:\ConsoleServiceApp\obj\Debug\netcoreapp3.1\ConsoleServiceApp.genruntimeconfig.cache

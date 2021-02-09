@@ -1,0 +1,29 @@
+2021-02-09 14:23:51.0599|INFO|ConsoleServiceApp.ServiceStarter|Starting DOLT Console Service
+2021-02-09 14:23:51.0599|INFO|ConsoleServiceApp.ServiceStarter|Starting DOLT Console Service
+2021-02-09 14:23:51.0599|INFO|ConsoleServiceApp.ServiceStarter|Starting DOLT Console Service
+2021-02-09 14:23:53.6476|DEBUG|ConsoleServiceApp.ServiceStarter|DOLT Daemon Start
+2021-02-09 14:23:53.6476|DEBUG|ConsoleServiceApp.ServiceStarter|DOLT Daemon Start
+2021-02-09 14:23:53.6614|INFO|ConsoleServiceApp.ServiceStarter|Starting the DOLT Service Engine Thread
+2021-02-09 14:23:53.6614|INFO|ConsoleServiceApp.ServiceStarter|Starting the DOLT Service Engine Thread
+2021-02-09 14:23:53.6614|INFO|ConsoleServiceApp.ServiceStarter|Starting the DOLT Service Engine Thread
+2021-02-09 14:23:53.7049|ERROR|ConsoleServiceApp.ServiceStarter|Failed to start DOLT Service Engine: "The method or operation is not implemented."
+2021-02-09 14:23:53.7049|ERROR|ConsoleServiceApp.ServiceStarter|Failed to start DOLT Service Engine: "The method or operation is not implemented."
+2021-02-09 14:23:53.7049|ERROR|ConsoleServiceApp.ServiceStarter|Failed to start DOLT Service Engine: "The method or operation is not implemented."
+2021-02-09 14:23:53.7049|ERROR|ConsoleServiceApp.ServiceStarter|Failed to start DOLT Service Engine: "The method or operation is not implemented."
+2021-02-09 14:23:53.7049|ERROR|ConsoleServiceApp.ServiceStarter|Failed to start DOLT Service Engine: "The method or operation is not implemented."
+2021-02-09 14:23:53.7365|INFO|ConsoleServiceApp.ServiceStarter|DOLT Service Engine Thread Started
+2021-02-09 14:23:53.7365|INFO|ConsoleServiceApp.ServiceStarter|DOLT Service Engine Thread Started
+2021-02-09 14:23:53.7365|INFO|ConsoleServiceApp.ServiceStarter|DOLT Service Engine Thread Started
+2021-02-09 14:23:55.9189|INFO|ConsoleServiceApp.ServiceStarter|Stopping DOLT service
+2021-02-09 14:23:55.9189|INFO|ConsoleServiceApp.ServiceStarter|Stopping DOLT service
+2021-02-09 14:23:55.9189|INFO|ConsoleServiceApp.ServiceStarter|Stopping DOLT service
+2021-02-09 14:23:55.9335|DEBUG|ConsoleServiceApp.ServiceStarter|DOLT Daemon Stop
+2021-02-09 14:23:55.9335|DEBUG|ConsoleServiceApp.ServiceStarter|DOLT Daemon Stop
+2021-02-09 14:23:55.9428|INFO|ConsoleServiceApp.ServiceStarter|Stopping the DOLT Service Engine
+2021-02-09 14:23:55.9428|INFO|ConsoleServiceApp.ServiceStarter|Stopping the DOLT Service Engine
+2021-02-09 14:23:55.9428|INFO|ConsoleServiceApp.ServiceStarter|Stopping the DOLT Service Engine
+2021-02-09 14:23:55.9692|ERROR|ConsoleServiceApp.ServiceStarter|Error Stopping DOLT Service Engine: 
+2021-02-09 14:23:55.9692|ERROR|ConsoleServiceApp.ServiceStarter|Error Stopping DOLT Service Engine: 
+2021-02-09 14:23:55.9692|ERROR|ConsoleServiceApp.ServiceStarter|Error Stopping DOLT Service Engine: 
+2021-02-09 14:23:55.9692|ERROR|ConsoleServiceApp.ServiceStarter|Error Stopping DOLT Service Engine: 
+2021-02-09 14:23:55.9692|ERROR|ConsoleServiceApp.ServiceStarter|Error Stopping DOLT Service Engine: 

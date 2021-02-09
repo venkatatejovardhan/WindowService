@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihhYOLwxf9128P8PkHCtHcv9C/ETV9TE/Pcw3aK3oaQubjfmAqBHz0NlffA9mzc23zKj/0rXAIqr+hDh5Kns5A==",
+  "success": true,
+  "projectFilePath": "D:\\ConsoleServiceApp\\ConsoleServiceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uwpus\\.nuget\\packages\\nlog\\4.7.7\\nlog.4.7.7.nupkg.sha512"
+  ],
+  "logs": []
+}
